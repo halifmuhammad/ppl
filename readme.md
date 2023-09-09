@@ -1,0 +1,2 @@
+[![Django CI](https://github.com/halifmuhammad/ppl/actions/workflows/django.yml/badge.svg)](https://github.com/halifmuhammad/ppl/actions/workflows/django.yml)
+[![codecov](https://codecov.io/gh/halifmuhammad/ppl/graph/badge.svg?token=NBCXMHTG5R)](https://codecov.io/gh/halifmuhammad/ppl)
